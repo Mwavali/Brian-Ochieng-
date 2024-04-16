@@ -1,0 +1,1 @@
+This project is a web-based appointment scheduling management system for Uzima Hospital. The system allows hospital staff to manage appointments for patients, including scheduling new appointments, viewing upcoming appointments, and canceling or rescheduling existing appointments.
